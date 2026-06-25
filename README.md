@@ -12,7 +12,9 @@ Project ini sudah mencapai **tahapan akhir** dan sudah **ready 100%** untuk digu
 
 | Dashboard | Catat Transaksi |
 | --- | --- |
-| ![Dashboard CatatanUtang](docs/screenshots/dashboard-menu.png) | ![Form Catat Transaksi](docs/screenshots/catat-transaksi.png) |
+| ![Dashboard CatatanUtang]( <img width="591" height="1280" alt="Menu Dashboard" src="https://github.com/user-attachments/assets/d1300c7d-2a4c-469c-94f4-dcfef71d4912" />
+) | ![Form Catat Transaksi]( <img width="591" height="1280" alt="formulir Pendaftaran" src="https://github.com/user-attachments/assets/b209a3a0-bfc0-4589-9afc-a4f2b2b390df" />
+) |
 
 ## Deskripsi Singkat
 
