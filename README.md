@@ -10,9 +10,11 @@ Project ini sudah mencapai **tahapan akhir** dan sudah **ready 100%** untuk digu
 
 ## Tampilan Aplikasi
 
-![Dashboard CatatanUtang]( <img width="591" height="1280" alt="Menu Dashboard" src="https://github.com/user-attachments/assets/d1300c7d-2a4c-469c-94f4-dcfef71d4912" />) 
+![Dashboard CatatanUtang]( <img width="591" height="1280" alt="Menu Dashboard" src="https://github.com/user-attachments/assets/f8065912-fc7f-4c0d-9b3b-a8d993badb6f" />
+) 
 
-![Form Catat Transaksi]( <img width="591" height="1280" alt="formulir Pendaftaran" src="https://github.com/user-attachments/assets/b209a3a0-bfc0-4589-9afc-a4f2b2b390df" />)
+![Form Catat Transaksi]( <img width="591" height="1280" alt="formulir Pendaftaran" src="https://github.com/user-attachments/assets/8b56be65-abf5-4062-9a35-486d24efb6ba" />
+)
 
 ## Deskripsi Singkat
 
